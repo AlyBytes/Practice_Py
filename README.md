@@ -1,2 +1,4 @@
-# Practice_Py
+# Practice Python
 just starting 
+by AlyBytes
+practicing new language 
